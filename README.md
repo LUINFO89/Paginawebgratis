@@ -2,7 +2,7 @@
 # Paginawebgratis
 En este codigo podras encontrar la creacion de la pagina web , con HTML y CSS , para los procesos basicos de un emprendimiento y/o de una pagina web comercial.
 
-
+DONACIONES https://paypal.me/luishernandosoto?locale.x=es_XC
 
 CREA TU PAGINA WEB EMPRESARIAL O DE EMPRENDIMIENTO 
 PERSONAL 
